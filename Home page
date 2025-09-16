@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to BPS Bank</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <h1>BPS Bank</h1>
+      <p>Your Trusted Financial Partner</p>
+    </div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Secure Banking for a Better Future</h2>
+    <p>We provide safe, reliable, and modern banking solutions for individuals and businesses.</p>
+    <a href="services.html" class="btn">Explore Services</a>
+  </section>
+
+  <!-- Services Overview -->
+  <section class="services">
+    <h2>Our Services</h2>
+    <div class="service-box">
+      <h3>💳 Personal Banking</h3>
+      <p>Accounts, savings, loans, and more tailored for your personal needs.</p>
+    </div>
+    <div class="service-box">
+      <h3>🏦 Business Banking</h3>
+      <p>Business accounts, corporate loans, and investment support.</p>
+    </div>
+    <div class="service-box">
+      <h3>🌍 Digital Banking</h3>
+      <p>24/7 access to your money with our mobile and online platforms.</p>
+    </div>
+  </section>
+
+  <!-- Call to Action -->
+  <section class="cta">
+    <h2>Open Your Account Today</h2>
+    <p>Join BPS Bank and experience secure and modern banking.</p>
+    <a href="contact.html" class="btn">Get Started</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 BPS Bank. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
